@@ -8,7 +8,7 @@ body{
 color:#716c53;
 background-color: #fffffe; }
     .top-header-section img{width: ;}
-    .top-header-section{background-image: url(image/Untitled-2.jpg);}
+    .top-header-section{background-image: url(/image/Untitled-2.jpg);}
     .top-header-section .main-column{
         display: grid;
         grid-template-columns: 2fr 4fr;
@@ -23,7 +23,7 @@ background-color: #fffffe; }
     .top-header-section .main-column li:last-child{padding-right: 0px;}
     .top-header-section .main-column a{text-decoration: none;color: #716c53;}
     .top-body-section img{width: ;}
-    .top-body-section{background-image: url("image/Untitled-3.jpg");
+    .top-body-section{background-image: url("/image/Untitled-3.jpg");
     background-size:cover ;
     background-repeat: no-repeat;
     width: 100%;
@@ -45,7 +45,7 @@ background-color: #fffffe; }
 
    .top-body-section .main-column .right-box h1{   font-size: 91px;}
    .top-body-section .main-column .right-box p{font-size:32px ;}
-   .our-team{background-image: url(image/Untitled-4.jpg);}
+   .our-team{background-image: url(/image/Untitled-4.jpg);}
     .our-team .our-team-pera {text-align: center;}
    .our-team .img-pera{
     display: grid;
@@ -68,7 +68,7 @@ font-size: 25px;}
 .our-team::after {
     content: '';
     position: absolute;
-    background-image: url(image/Untitled-5.png);
+    background-image: url(/image/Untitled-5.png);
     width: 100%;
     height: 435px;
     background-repeat: no-repeat;
@@ -114,12 +114,12 @@ font-size: 25px;}
        
  .trial-section .left-box{padding-right: 216px;}
 
- .trial-section{background-image: url(image/Untitled-5.jpg);}
+ .trial-section{background-image: url(/image/Untitled-5.jpg);}
  .trial-section{position: relative;}
  .trial-section::after {
     content: '';
     position: absolute;
-    background-image: url(image/Untitled-8.png);
+    background-image: url(/image/Untitled-8.jpg);
     width: 100%;
     height: 160px;
     rotate: 0deg;
@@ -130,7 +130,7 @@ font-size: 25px;}
 .trial-section::before {
     content: '';
     position: absolute;
-    background-image: url(image/Untitled-9.png);
+    background-image: url(/image/Untitled-9.png);
     width: 100%;
     height: 160px;
     rotate: 0deg;
@@ -139,7 +139,7 @@ font-size: 25px;}
     top: 511px;
 }
 .state-section img{width: 100%;}
-.state-section {background-image: url(image/Untitled-7.jpg);
+.state-section {background-image: url(/image/Untitled-7.jpg);
 background-repeat: no-repeat;
 background-size: cover;}
 .state-section{
@@ -165,7 +165,7 @@ padding-bottom: 135px;}
 .state-section .digit .flex::after {
     content: '';
     position: absolute;
-    background: url(image/Untitled-12.png);
+    background: url(/image/Untitled-12.png);
     width: 5px;
     height: 211px;
     top: 24px;
@@ -174,7 +174,7 @@ padding-bottom: 135px;}
   .state-section .digit .flex::before {
     content: '';
     position: absolute;
-    background: url(image/Untitled-12.png);
+    background: url(/image/Untitled-12.png);
     width: 5px;
     height: 211px;
     top: 24px;
@@ -212,7 +212,7 @@ background: #716c53;}
 .state-section .digit::after {
     content: '';
     position: absolute;
-    background: url(image/Untitled-13.png);
+    background: url(/image/Untitled-13.png);
     height: 366px;
     width: 100%;
     top: -52px;
@@ -220,7 +220,7 @@ background: #716c53;}
     background-repeat: no-repeat;
 }
 .ben img{width: ;}
-.ben{background-image: url(image/Untitled-8.jpg);
+.ben{background-image: url(/image/Untitled-8.jpg);
 margin-top: 130px;
 background-size: cover;
 background-repeat: no-repeat;
@@ -238,7 +238,7 @@ position: relative;
 .ben::after {
     content: '';
     position: absolute;
-    background: url(image/Untitled-14.png);
+    background: url(/image/Untitled-14.png);
     width: 100%;
     height: 42px;
     top: 0px;
@@ -248,7 +248,7 @@ position: relative;
 .ben::before {
     content: '';
     position: absolute;
-    background: url(image/Untitled-15.png);
+    background: url(/image/Untitled-15.png);
     width: 100%;
     height: 42px;
     top: 603px;
